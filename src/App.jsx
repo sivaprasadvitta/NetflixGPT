@@ -1,8 +1,11 @@
 import { useState } from "react";
+import Body from "./components/Body";
 
 const App = ()=>{
   return (
-    <div className="font-bold p-2">siva</div>
+    <>
+      <Body />
+    </>
   )
 }
 
