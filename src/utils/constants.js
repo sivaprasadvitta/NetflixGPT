@@ -1,19 +1,3 @@
-export const LOGO_URL = "https://about.netflix.com/images/logo.png";
-export const LOGOUT_URL = "https://www.freeiconspng.com/thumbs/sign-out-icon/sign-out-logout-icon-0.png";
-export const PROFILE_URL = "https://i.pinimg.com/originals/9a/b1/b4/9ab1b479b757936cabbea81739ab0d8b.png";
-
-export const TMDB_ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkYmQ0ZWU5ZjNmMjQ2NzZkNjhmOGRhODczYzRiODY1NiIsIm5iZiI6MTczNjAxMjkzOS43NTksInN1YiI6IjY3Nzk3NDhiMmIwOTdiMTVhMjc0YmYxNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.QzufhTc7AFC4ZsZtux1TDV7KpnAWWJSCg3qFTrHJBu4"
-export const TMDB_API_KEY = "dbd4ee9f3f24676d68f8da873c4b8656"
-
-export const API_OPTIONS = {
-    method: 'GET',
-    headers: {
-        accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkYmQ0ZWU5ZjNmMjQ2NzZkNjhmOGRhODczYzRiODY1NiIsIm5iZiI6MTczNjAxMjkzOS43NTksInN1YiI6IjY3Nzk3NDhiMmIwOTdiMTVhMjc0YmYxNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.QzufhTc7AFC4ZsZtux1TDV7KpnAWWJSCg3qFTrHJBu4'
-    }
-};
-
-export const IMG_CDN = "https://image.tmdb.org/t/p/w780"
 
 
 
